@@ -1,0 +1,33 @@
+.heading {
+  position: static;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 40px;
+}
+
+.slide {
+  display: grid;
+  place-items: center;
+}
+
+.slide-title {
+  position: static;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.slide-previous {
+  position: relative;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+
+.slide-next {
+  position: relative;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
